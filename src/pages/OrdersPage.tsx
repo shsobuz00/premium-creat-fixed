@@ -320,7 +320,7 @@ function OrderCard({ orderId, buyer, dbOrder, onRefunded }: { orderId: `0x${stri
                 {effectiveStatus === OrderStatus.Pending && (
                   <span className="flex items-center gap-1.5 text-xs" style={{ color: '#D97706' }}>
                     <Clock size={12} />
-                    {isOnChainPending ? 'Awaiting on-chain confirmation...' : secsLeft > 0 ? `Refund available in ${formatCountdown(secsLeft)}` : 'Refund window open — claim below'}
+                    {secsLeft > 0 ? `Refund available in ${formatCountdown(secsLeft)}` : 'Refund window open - claim below'}
                   </span>
                 )}
                 {effectiveStatus === OrderStatus.Delivered && (
