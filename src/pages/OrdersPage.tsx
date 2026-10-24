@@ -1,7 +1,13 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import {
-  Clock, Package, RefreshCw, ChevronDown, ChevronUp,
+const [now, setNow] = useState(Math.floor(Date.now() / 1000));
+
+useEffect(() => {
+  const interval = setInterval(() => {
+    setNow(Math.floor(Date.now() / 1000));
+  }, 1000);
+  return () => clearInterval(interval);
+}, []);
   ExternalLink, AlertCircle, Copy, CheckCheck, Users, Gift, Star,
 } from 'lucide-react';
 import {
@@ -335,7 +341,7 @@ function OrderCard({ orderId, buyer, dbOrder, onRefunded }: { orderId: `0x${stri
                 )}
               </div>
 
-              {refundable && (
+              (refundable || secsLeft === 0) && (
                 <motion.button
                   whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
                   onClick={handleClaimRefund}
