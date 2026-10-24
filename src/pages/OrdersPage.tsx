@@ -334,7 +334,7 @@ function OrderCard({ orderId, buyer, dbOrder, onRefunded }: { orderId: `0x${stri
                   </span>
                 )}
               </div>
-        {(refundable || secsLeft === 0) && (
+                      {(refundable || secsLeft === 0) && (
           <motion.button
             whileHover={{ scale: 1.02 }}
             whileTap={{ scale: 0.97 }}
@@ -356,15 +356,19 @@ function OrderCard({ orderId, buyer, dbOrder, onRefunded }: { orderId: `0x${stri
         )}
 
         {refundTxHash && (
-          <a href={buildTxExplorerUrl(CHAIN_ID, refundTxHash)} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5 text-xs text-blue-400 hover:underline">
+          <a
+            href={buildTxExplorerUrl(CHAIN_ID, refundTxHash)}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-1.5 text-xs text-blue-400 hover:underline"
+          >
             View refund tx <ExternalLink size={12} />
           </a>
         )}
-    )}
-            </div>
-          </motion.div>
-        )}
-      </AnimatePresence>
+      </div>
+    </motion.div>
+  )}
+</AnimatePresence>
 
       {/* Review modal */}
       {dbOrder && (
