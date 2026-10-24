@@ -137,10 +137,10 @@ export function CheckoutPage({ summary, onNavigate, onOrderComplete }: CheckoutP
 //   toast.error(`Payment Failed: Insufficient USDC balance. You need ${formatUSDC(finalPrice)} USDC.`);
 //   return;
 // }
-    if (!hasEnoughAllowance) {
-      toast.error('Payment Failed: USDC allowance insufficient. Please approve first.');
-      return;
-    }
+    // if (!hasEnoughAllowance) {
+//   toast.error('Payment Failed: USDC allowance insufficient. Please approve first.');
+//   return;
+// }
 
     const ts = Math.floor(Date.now() / 1000);
     const productId = `${summary.platform.id}-${summary.plan.id}`;
