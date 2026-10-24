@@ -334,25 +334,32 @@ function OrderCard({ orderId, buyer, dbOrder, onRefunded }: { orderId: `0x${stri
                   </span>
                 )}
               </div>
+        {(refundable || secsLeft === 0) && (
+          <motion.button
+            whileHover={{ scale: 1.02 }}
+            whileTap={{ scale: 0.97 }}
+            onClick={handleClaimRefund}
+            disabled={refundPending || refundConfirming}
+            className="flex items-center justify-center gap-2 w-full py-3 rounded-xl text-sm font-semibold transition-all shadow-lg"
+            style={{ background: 'rgba(14,165,233,0.08)', border: '1px solid rgba(14,165,233,0.22)', color: '#0EA5E9' }}
+          >
+            {refundPending || refundConfirming ? (
+              <>
+                <RefreshCw size={14} className="animate-spin" /> Processing refund...
+              </>
+            ) : (
+              <>
+                <RefreshCw size={14} /> Claim Refund
+              </>
+            )}
+          </motion.button>
+        )}
 
-              refundable || secsLeft === 0) && (
-                <motion.button
-                  whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
-                  onClick={handleClaimRefund}
-                  disabled={refundPending || refundConfirming}
-                  className="flex items-center justify-center gap-2 w-full py-3 rounded-xl text-sm font-semibold transition-all disabled:opacity-50"
-                  style={{ background: 'rgba(14,165,233,0.08)', border: '1px solid rgba(14,165,233,0.22)', color: '#0EA5E9' }}
-                >
-                  {refundPending || refundConfirming ? (
-                    <><RefreshCw size={14} className="animate-spin" />Processing refund...</>
-                  ) : (
-                    <><RefreshCw size={14} />Claim Refund</>
-                     {refundTxHash && (
-          <a href={buildTxExplorerUrl(CHAIN_ID, refundTxHash)} target="_blank" rel="noopener noreferrer" className="...">
+        {refundTxHash && (
+          <a href={buildTxExplorerUrl(CHAIN_ID, refundTxHash)} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5 text-xs text-blue-400 hover:underline">
             View refund tx <ExternalLink size={12} />
           </a>
         )}
-      </motion.div>
     )}
             </div>
           </motion.div>
