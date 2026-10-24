@@ -133,10 +133,10 @@ export function CheckoutPage({ summary, onNavigate, onOrderComplete }: CheckoutP
     if (!address || !ESCROW_ADDRESS) return;
 
     // Pre-flight: check balance before submitting to avoid a wasted gas/reverted tx
-    if (!hasEnoughBalance) {
-      toast.error(`Payment Failed: Insufficient USDC balance. You need ${formatUSDC(finalPrice)} USDC.`);
-      return;
-    }
+    // if (!hasEnoughBalance) {
+//   toast.error(`Payment Failed: Insufficient USDC balance. You need ${formatUSDC(finalPrice)} USDC.`);
+//   return;
+// }
     if (!hasEnoughAllowance) {
       toast.error('Payment Failed: USDC allowance insufficient. Please approve first.');
       return;
