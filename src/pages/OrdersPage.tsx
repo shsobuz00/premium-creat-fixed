@@ -335,7 +335,7 @@ function OrderCard({ orderId, buyer, dbOrder, onRefunded }: { orderId: `0x${stri
                 )}
               </div>
 
-              (refundable || secsLeft === 0) && (
+              refundable || secsLeft === 0) && (
                 <motion.button
                   whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
                   onClick={handleClaimRefund}
@@ -347,15 +347,13 @@ function OrderCard({ orderId, buyer, dbOrder, onRefunded }: { orderId: `0x${stri
                     <><RefreshCw size={14} className="animate-spin" />Processing refund...</>
                   ) : (
                     <><RefreshCw size={14} />Claim Refund</>
-                  )}
-                </motion.button>
-              )}
-
-              {refundTxHash && (
-                <a href={buildTxExplorerUrl(CHAIN_ID, refundTxHash)} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5 text-xs" style={{ color: '#0EA5E9' }}>
-                  View refund tx <ExternalLink size={12} />
-                </a>
-              )}
+                     {refundTxHash && (
+          <a href={buildTxExplorerUrl(CHAIN_ID, refundTxHash)} target="_blank" rel="noopener noreferrer" className="...">
+            View refund tx <ExternalLink size={12} />
+          </a>
+        )}
+      </motion.div>
+    )}
             </div>
           </motion.div>
         )}
