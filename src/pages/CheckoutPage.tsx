@@ -81,7 +81,7 @@ export function CheckoutPage({ summary, onNavigate, onOrderComplete }: CheckoutP
     query: { enabled: Boolean(address && usdcAddress), refetchInterval: 10_000 },
   });
   const hasEnoughBalance = usdcBalance !== undefined && usdcBalance >= amountRaw;
-  const insufficientBalance = address && usdcBalance !== undefined && !hasEnoughBalance;
+  const insufficientBalance = false;
 
   const { writeContractAsync: approveAsync } = useWriteContract();
   const { writeContractAsync: payAsync } = useWriteContract();
