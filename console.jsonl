@@ -1,0 +1,1393 @@
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170100380}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170100596}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170100630}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170100779}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170101013}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170101063}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170101063}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170101480}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170101480}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170101696}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170101697}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170101763}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170101779}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170102146}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170102163}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170103090}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170103113}
+{"level":"warn","message":"(previous line repeated 1× more)","timestamp":1792170104163}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170104163}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170104163}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170104529}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170104530}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170104547}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170137063}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170137130}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170137130}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170137164}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170137164}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170137180}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170137180}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170137225}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170143064}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170143096}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170143280}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170143429}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170144247}
+{"level":"warn","message":"(previous line repeated 2× more)","timestamp":1792170147162}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170147162}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170147529}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170148080}
+{"level":"log","message":"[supabase] fetchOrdersByWallet → querying table \"orders\" for wallet: 0xad9a4af09b5dd4c8754e68779e554e889f75c2a5","timestamp":1792170218068}
+{"level":"log","message":"[supabase] fetchOrdersByWallet OK — rows returned: 0","timestamp":1792170218568}
+{"level":"log","message":"[supabase] fetchOrdersByWallet → querying table \"orders\" for wallet: 0xad9a4af09b5dd4c8754e68779e554e889f75c2a5","timestamp":1792170221774}
+{"level":"log","message":"[supabase] fetchReferralByWallet → querying table \"referrals\" for wallet: 0xad9a4af09b5dd4c8754e68779e554e889f75c2a5","timestamp":1792170221774}
+{"level":"log","message":"[supabase] fetchOrdersByWallet OK — rows returned: 0","timestamp":1792170221858}
+{"level":"error","message":"[supabase] fetchReferralByWallet FAILED {\"status\":400,\"statusText\":\"\",\"message\":\"column referrals.walletAddress does not exist\",\"details\":null,\"hint\":null,\"code\":\"42703\",\"wallet\":\"0xad9a4af09b5dd4c8754e68779e554e889f75c2a5\"}","timestamp":1792170221970}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56, 189, 248, 0.06)\" to \"transparent\". rgba(56, 189, 248, 0.06) is not an animatable value - to enable this animation set rgba(56, 189, 248, 0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170226464}
+{"level":"warn","message":"(previous line repeated 4× more)","timestamp":1792170285362}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170285362}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170286096}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56, 189, 248, 0.06)\" to \"transparent\". rgba(56, 189, 248, 0.06) is not an animatable value - to enable this animation set rgba(56, 189, 248, 0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170340947}
+{"level":"warn","message":"(previous line repeated 2× more)","timestamp":1792170341581}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170341581}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170342297}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56, 189, 248, 0.06)\" to \"transparent\". rgba(56, 189, 248, 0.06) is not an animatable value - to enable this animation set rgba(56, 189, 248, 0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170421614}
+{"level":"warn","message":"(previous line repeated 3× more)","timestamp":1792170421897}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170421897}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170421964}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170421980}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170423013}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792170423013}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792170423431}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792173373067}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792173373376}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792173418161}
+{"level":"log","message":"(previous line repeated 1× more)","timestamp":1792173757053}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-16T18:02:37.053Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792173757053}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792173772034}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792173772574}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792173772574}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792173772574}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792173772575}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792173772575}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792173772575}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792173772575}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792173772575}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792173772575}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792173775343}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792173775344}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792173775344}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792173775344}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792173775344}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792173775344}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792173775344}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792173775345}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792173775345}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792173796285}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:2 (2.117.3) 2026-10-16T18:03:16.285Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792173796285}
+{"level":"log","message":"(previous line repeated 1× more)","timestamp":1792173797972}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-16T18:03:17.972Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792173797972}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792173884293}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792173884293}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792173884557}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792173884557}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792174086624}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792174086625}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792174111040}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792174111344}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792174138374}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174138375}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792174149732}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174149732}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792174182497}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174182497}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792174182497}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174182497}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792174220476}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174220476}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792174220477}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174220477}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792174274656}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174274656}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792174274657}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174274657}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792174296924}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174296924}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792174303318}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792174303318}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792174391720}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792174422077}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792174422628}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792174464239}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792174732407}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792174733802}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792174755549}
+{"level":"debug","message":"[vite] connected.","timestamp":1792174755553}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792174780656}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792174782639}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56, 189, 248, 0.06)\" to \"transparent\". rgba(56, 189, 248, 0.06) is not an animatable value - to enable this animation set rgba(56, 189, 248, 0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174787533}
+{"level":"warn","message":"(previous line repeated 3× more)","timestamp":1792174787914}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174787914}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174787981}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174787981}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174788098}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174788098}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174788449}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174788449}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174788698}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174788698}
+{"level":"warn","message":"(previous line repeated 2× more)","timestamp":1792174790765}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174790765}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174790782}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174790865}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174795248}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174795265}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174795265}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174795465}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174795465}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174795849}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174795849}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174795898}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174795898}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174796065}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174796066}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174796165}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174796165}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174796915}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174796916}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174796964}
+{"level":"warn","message":"You are trying to animate background from \"transparent\" to \"rgba(56,189,248,0.06)\". transparent is not an animatable value - to enable this animation set transparent to a value animatable to rgba(56,189,248,0.06) via the `style` property.","timestamp":1792174796965}
+{"level":"warn","message":"You are trying to animate background from \"rgba(56,189,248,0.06)\" to \"transparent\". rgba(56,189,248,0.06) is not an animatable value - to enable this animation set rgba(56,189,248,0.06) to a value animatable to transparent via the `style` property.","timestamp":1792174796998}
+{"level":"log","message":"[supabase] fetchOrdersByWallet → querying table \"orders\" for wallet: 0xd3f83190a78973f469e4d2a1b25a765bbfc8907b","timestamp":1792174835541}
+{"level":"log","message":"[supabase] fetchOrdersByWallet OK — rows returned: 0","timestamp":1792174835845}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792175050197}
+{"level":"log","message":"[supabase] fetchOrdersByWallet → querying table \"orders\" for wallet: 0xd3f83190a78973f469e4d2a1b25a765bbfc8907b","timestamp":1792175050373}
+{"level":"log","message":"[supabase] fetchOrdersByWallet OK — rows returned: 0","timestamp":1792175051077}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792175052576}
+{"level":"log","message":"[supabase] fetchOrdersByWallet → querying table \"orders\" for wallet: 0xd3f83190a78973f469e4d2a1b25a765bbfc8907b","timestamp":1792175052678}
+{"level":"log","message":"[supabase] fetchOrdersByWallet OK — rows returned: 0","timestamp":1792175052770}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792175263512}
+{"level":"log","message":"[supabase] fetchOrdersByWallet → querying table \"orders\" for wallet: 0xd3f83190a78973f469e4d2a1b25a765bbfc8907b","timestamp":1792175263670}
+{"level":"log","message":"[supabase] fetchOrdersByWallet OK — rows returned: 0","timestamp":1792175264319}
+{"level":"log","message":"[supabase] insertOrder → inserting row: {\"orderId\":\"0x457dcb484688ffef522494b098b9ced564a27765ded98e14c9cba64071414340\",\"buyerWallet\":\"0xd3f83190a78973f469e4d2a1b25a765bbfc8907b\",\"platform\":\"Discord Nitro Basic\",\"amountUSDC\":5,\"txHash\":\"0x1804925598ce627c1a3715545a1d3cc0a4833f97dcbb266a0a1125dc3cf38c00\"}","timestamp":1792175291310}
+{"level":"log","message":"[supabase] insertOrder OK — orderId: 0x457dcb484688ffef522494b098b9ced564a27765ded98e14c9cba64071414340 | wallet: 0xd3f83190a78973f469e4d2a1b25a765bbfc8907b","timestamp":1792175291485}
+{"level":"log","message":"[telegram] Notification sent successfully","timestamp":1792175292501}
+{"level":"log","message":"[supabase] fetchOrdersByWallet → querying table \"orders\" for wallet: 0xd3f83190a78973f469e4d2a1b25a765bbfc8907b","timestamp":1792175338739}
+{"level":"log","message":"[supabase] fetchReferralByWallet → querying table \"referrals\" for wallet: 0xd3f83190a78973f469e4d2a1b25a765bbfc8907b","timestamp":1792175338739}
+{"level":"log","message":"[supabase] fetchOrdersByWallet → querying table \"orders\" for wallet: 0xd3f83190a78973f469e4d2a1b25a765bbfc8907b","timestamp":1792175338740}
+{"level":"log","message":"[supabase] fetchReferralByWallet → querying table \"referrals\" for wallet: 0xd3f83190a78973f469e4d2a1b25a765bbfc8907b","timestamp":1792175338740}
+{"level":"log","message":"[supabase] fetchOrdersByWallet OK — rows returned: 1","timestamp":1792175338846}
+{"level":"log","message":"(previous line repeated 1× more)","timestamp":1792175338972}
+{"level":"error","message":"[supabase] fetchReferralByWallet FAILED {\"status\":400,\"statusText\":\"\",\"message\":\"column referrals.walletAddress does not exist\",\"details\":null,\"hint\":null,\"code\":\"42703\",\"wallet\":\"0xd3f83190a78973f469e4d2a1b25a765bbfc8907b\"}","timestamp":1792175338972}
+{"level":"error","message":"(previous line repeated 1× more)","timestamp":1792175573324}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792175573324}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175573324}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792175610083}
+{"level":"log","message":"[supabase] fetchOrdersByWallet → querying table \"orders\" for wallet: 0xd3f83190a78973f469e4d2a1b25a765bbfc8907b","timestamp":1792175610320}
+{"level":"log","message":"[supabase] fetchOrdersByWallet OK — rows returned: 1","timestamp":1792175610993}
+{"level":"debug","message":"[vite] connected.","timestamp":1792175621430}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792175751809}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175751809}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792175752155}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175752155}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792175816258}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175816258}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792175816259}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175816259}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792175860688}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175860688}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792175860689}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175860689}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792175908529}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175908530}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792175908530}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175908530}
+{"level":"warn","message":"[supabase] fetchReviewsByProduct: table missing — The \"reviews\" table does not exist yet. Run the migration SQL in your Supabase dashboard: https://supabase.com/dashboard/project/gphrbquqmwrgxedwinvd/sql — copy the contents of docs/reviews-migration.sql and press Run.","timestamp":1792175957856}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792175975959}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175975959}
+{"level":"warn","message":"(previous line repeated 1× more)","timestamp":1792175975959}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792175975959}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792175975960}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792176192074}
+{"level":"log","message":"[supabase] fetchOrdersByWallet → querying table \"orders\" for wallet: 0xd3f83190a78973f469e4d2a1b25a765bbfc8907b","timestamp":1792176192232}
+{"level":"log","message":"[supabase] fetchOrdersByWallet OK — rows returned: 1","timestamp":1792176192901}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792176314269}
+{"level":"log","message":"[supabase] fetchOrdersByWallet → querying table \"orders\" for wallet: 0xd3f83190a78973f469e4d2a1b25a765bbfc8907b","timestamp":1792176314436}
+{"level":"log","message":"[supabase] fetchOrdersByWallet OK — rows returned: 1","timestamp":1792176314546}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792176338004}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792176338008}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792177209248}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792177209422}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792177502120}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792177502121}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792177519231}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792177519538}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792177713764}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792177713765}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792177734062}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792177816131}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177816131}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792177819063}
+{"level":"debug","message":"[vite] connected.","timestamp":1792177819098}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792177859286}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177859286}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792177859293}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177859293}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792177876160}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792177876486}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177876486}
+{"level":"debug","message":"[vite] connected.","timestamp":1792177876580}
+{"level":"error","message":"[vite] Failed to reload /src/pages/PlanPage.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792177905976}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792177906664}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177906664}
+{"level":"error","message":"[vite] Failed to reload /src/pages/PlanPage.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792177906901}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792177906901}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177906901}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792177941560}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792177942166}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792177956429}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792177959437}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177959437}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792177959438}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177959438}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792177979177}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792177989044}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177989044}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792177989045}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792177989045}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178038910}
+{"level":"debug","message":"[vite] connected.","timestamp":1792178039843}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178074505}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178200743}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178204799}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792178447274}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792178447295}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178455245}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178466539}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792178579230}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792178579231}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178594465}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178595412}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178606278}
+{"level":"debug","message":"[vite] connected.","timestamp":1792178606613}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178607974}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792178772076}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792178772093}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178792034}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178815787}
+{"level":"debug","message":"[vite] hot updated: /src/components/Sidebar.tsx","timestamp":1792178881448}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792178881448}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792178915223}
+{"level":"debug","message":"[vite] connected.","timestamp":1792178918412}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792178930317}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792178930317}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792178930317}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792178930317}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792178956013}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792178956013}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792178956014}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792178956014}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792178982930}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792178982930}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792178982930}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792178982930}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792179018213}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792179018214}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792179018215}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792179018215}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179101580}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179146737}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179147235}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179223831}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179224202}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179235231}
+{"level":"debug","message":"[vite] connected.","timestamp":1792179236469}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792179504670}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792179504683}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179514941}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179532375}
+{"level":"debug","message":"[vite] hot updated: /src/components/Sidebar.tsx","timestamp":1792179647609}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792179647609}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179651940}
+{"level":"debug","message":"[vite] connected.","timestamp":1792179651947}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179919385}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179926011}
+{"level":"debug","message":"[vite] connected.","timestamp":1792179927047}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179976326}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792179976665}
+{"level":"debug","message":"[vite] connected.","timestamp":1792179977402}
+{"level":"debug","message":"[vite] connected.","timestamp":1792179977801}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792180245011}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792180245013}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792180252083}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792180271897}
+{"level":"debug","message":"[vite] hot updated: /src/components/Sidebar.tsx","timestamp":1792180330160}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792180330160}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792180337813}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792180525401}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792180530219}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792180534023}
+{"level":"debug","message":"[vite] connected.","timestamp":1792180537664}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792180666347}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792180692381}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792180692679}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792180778883}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792180778883}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792180778883}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792180778883}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792180795937}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792180807590}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792180807590}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792180818522}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792180818522}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181027139}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181027501}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181038072}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181051621}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792181166180}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792181166181}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792181166181}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181177779}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181193803}
+{"level":"debug","message":"[vite] hot updated: /src/components/Sidebar.tsx","timestamp":1792181282186}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792181282187}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181300655}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181399106}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181399713}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181515333}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181515750}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181516678}
+{"level":"debug","message":"[vite] connected.","timestamp":1792181516806}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181525478}
+{"level":"debug","message":"[vite] connected.","timestamp":1792181530955}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792181774906}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792181774908}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792181774909}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181783531}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181801954}
+{"level":"debug","message":"[vite] hot updated: /src/components/Sidebar.tsx","timestamp":1792181887866}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792181887866}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792181894120}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792182049910}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792182087751}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792182088192}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792182100838}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792200252454}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792200252456}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792204923690}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792204930970}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792205228932}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792205228933}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792205237913}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792205238954}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792212299245}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792212306118}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792212339945}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792212407603}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792212407604}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792212408475}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792212408475}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792212415942}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792212446115}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792212446115}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792212446121}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792212446121}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792212446876}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792212446876}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792212486710}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792212486710}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792212486710}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792212486710}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792212525767}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792212525767}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792212525767}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792212525768}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792212557674}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792212725670}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792212726085}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792212730362}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792212817310}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792212818218}
+{"level":"debug","message":"[vite] connected.","timestamp":1792212818309}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792212937716}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792212937759}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792212945189}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792212945765}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792213583760}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792213583763}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792213591618}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792213592435}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792214173522}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792214173526}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792214212433}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792214223467}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792214285896}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792214286016}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792214333001}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792214334872}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792221278070}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792221278770}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792221445351}
+{"level":"log","message":"(previous line repeated 1× more)","timestamp":1792221445936}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-17T07:17:25.936Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792221445936}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792221470647}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792221470647}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792221490864}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792221513873}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792221513874}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792221513877}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792221513878}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792221564104}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792221564105}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792221564106}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792221564106}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792221642943}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792221642944}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792221644128}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792221644128}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792221687763}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792221687763}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792221687764}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792221687765}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792221770982}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-17T07:22:50.983Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792221770984}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792221771893}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-17T07:22:51.893Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792221771893}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792221777389}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792221777389}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792221777389}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792221777389}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792221777389}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792221777390}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792221777390}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792221777390}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792221777390}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792221777546}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792221777546}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792221777546}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792221777546}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792221777546}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792221777546}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792221777546}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792221777546}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792221777547}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792221983103}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792222275725}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792222280731}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792222292985}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792222295515}
+{"level":"debug","message":"[vite] connected.","timestamp":1792222298578}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222438531}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222438531}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792222444655}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222479423}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222479423}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222483411}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222483412}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222522194}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222522194}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222530560}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222530560}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222564291}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222564291}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222578027}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222578027}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222607069}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222607069}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222625033}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222625034}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222662607}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222662607}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222677459}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222677460}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222712404}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222712405}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792222714404}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222764397}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222764397}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792222764397}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792222764398}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792223005139}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792223007891}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792223097262}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792223097275}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792223116703}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792223120644}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792223556315}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792223556374}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792223575185}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792223591428}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792223665144}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792223665144}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792223683552}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792223713052}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792223713052}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792223713053}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792223713053}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792223826938}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792223836240}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792223836240}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792223853851}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792223853851}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792223882347}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792223917095}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792223917095}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792223929361}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792223929361}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792224134825}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792224136625}
+{"level":"debug","message":"[vite] connected.","timestamp":1792224137082}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792224633177}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792224633178}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792224665356}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792224681857}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792224840391}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224840391}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792224868266}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224868266}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792224938867}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224938867}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792224940789}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224940790}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792225039034}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792225039035}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792225044122}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792225101072}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792225101670}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792225101670}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792225117679}
+{"level":"debug","message":"[vite] connected.","timestamp":1792225118928}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792225212379}
+{"level":"debug","message":"[vite] connected.","timestamp":1792225217269}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792225233514}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792225235652}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792225235652}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792225280208}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792225280208}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792225311668}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792225711584}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792225815863}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792225826026}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792225826026}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792225843392}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792225869675}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792225869675}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792225869676}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792225869676}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792225910045}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792225910045}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792225948000}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792225952442}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792225952442}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792225967444}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792225999235}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792225999236}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792225999236}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792225999236}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226034982}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226034982}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226036103}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226036103}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226077099}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226077099}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226080137}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226080138}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792226127683}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226128389}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226128389}
+{"level":"debug","message":"[vite] connected.","timestamp":1792226130175}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226164644}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226164644}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226164645}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226164645}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792226204714}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792226205143}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226207294}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226207294}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226207295}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226207295}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226252611}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226252612}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226252612}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226252612}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226315964}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226315964}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792226315964}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792226315964}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792226410108}
+{"level":"debug","message":"[vite] connected.","timestamp":1792226410719}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792226485327}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792226912826}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792226921364}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792226925137}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792226963202}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792226966715}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792227035633}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227092085}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227092086}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792227119702}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227181791}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227181792}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227181792}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227181792}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792227220773}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227224060}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227224060}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792227231777}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792227310645}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227348369}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227348369}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792227348590}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227437866}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227437866}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227452513}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227452513}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227476994}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227476994}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227476994}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227476994}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227519409}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227519409}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227519409}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227519409}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227568577}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227568577}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227568583}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227568584}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792227699017}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792227699152}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792227709943}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792227720767}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227907603}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227907604}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792227921289}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792227921289}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792228179975}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792228179975}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792228207525}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792228338517}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792228338518}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792228339402}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792228339403}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792228384357}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792228384357}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792228384358}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792228384358}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792228582206}
+{"level":"debug","message":"[vite] connected.","timestamp":1792228584587}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792228623709}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792228640181}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792228720369}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792228720404}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792228720369}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792228720404}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792229055861}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792229076627}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792229133714}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792229156427}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792229161670}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792229341236}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792229341236}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792229341236}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792229341236}
+{"level":"debug","message":"[vite] hot updated: /src/pages/PlanPage.tsx","timestamp":1792229341237}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792229341237}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792229341237}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792229386749}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792229417830}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792229432790}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792229434192}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792229444241}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792229444242}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792229502355}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792229502355}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792229502357}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792229502357}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792229540863}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792229631931}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792229792345}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792229792823}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792229793887}
+{"level":"debug","message":"[vite] connected.","timestamp":1792229795272}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792230050120}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792230056178}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792230063014}
+{"level":"debug","message":"[vite] connected.","timestamp":1792230064186}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792230102042}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792230106377}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792230106378}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792230117565}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792230117566}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792230144657}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792230149384}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792230149384}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792230149384}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792230149384}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792230149508}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792230149508}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792230182756}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792230187556}
+{"level":"debug","message":"[vite] connected.","timestamp":1792230187703}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792230296649}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792230297055}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792230413213}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792230414961}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792230417112}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792230500749}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792230860881}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792232062256}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792232062284}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792232062285}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792232074954}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792232078178}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792232094438}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792232094444}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792232572039}
+{"level":"debug","message":"[vite] connected.","timestamp":1792232576040}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792232591255}
+{"level":"log","message":"(previous line repeated 1× more)","timestamp":1792232668140}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-17T10:24:28.140Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792232668140}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792232671680}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-17T10:24:31.681Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792232671681}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792232681584}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792232681584}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792232681584}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792232681584}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792232681585}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792232681585}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792232681585}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792232681585}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792232681585}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792232692011}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792232692011}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792232692011}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792232692011}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792232692011}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792232692011}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792232692011}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792232692011}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792232692011}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792232697424}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792232699350}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792232699351}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792232699352}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792232699352}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792232883848}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792232924586}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792232932642}
+{"level":"log","message":"(previous line repeated 1× more)","timestamp":1792232964277}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-17T10:29:24.277Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792232964277}
+{"level":"log","message":"(previous line repeated 1× more)","timestamp":1792232966284}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-17T10:29:26.284Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792232966284}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792232967316}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792232967316}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792232967317}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792232967317}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792232967317}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792232967317}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792232967318}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792232967318}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792232967318}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792232967321}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792232967321}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792232967321}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792232967321}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792232967321}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792232967322}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792232967322}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792232967322}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792232967322}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792233110074}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792233110074}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792233123099}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792233123099}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792233336252}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792233346815}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792233671590}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792233671612}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792233689404}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792240808973}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792242345985}
+{"level":"debug","message":"[vite] connected.","timestamp":1792242348584}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792242391228}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792242391623}
+{"level":"debug","message":"[vite] connected.","timestamp":1792242391665}
+{"level":"debug","message":"[vite] connected.","timestamp":1792242392113}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792243546437}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792243546440}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792243564052}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792243569987}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792244397097}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792244405562}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792244414781}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792244426079}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792244434244}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792244434244}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792244434244}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792244434244}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792244476999}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792244476999}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792244477003}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792244477003}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792244498921}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792244683138}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792244713910}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792244714311}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792244963510}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792244968789}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792248001472}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792248001476}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792248001800}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792248290398}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792248382069}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792248844539}
+{"level":"debug","message":"[vite] connected.","timestamp":1792248845746}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792248876152}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792249516907}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792249833361}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792249833361}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792249833362}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792249847401}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792249847970}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792249878600}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792249879553}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792249919619}
+{"level":"debug","message":"[vite] connected.","timestamp":1792249919649}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792249976049}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792250038526}
+{"level":"log","message":"(previous line repeated 1× more)","timestamp":1792250230244}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-17T15:17:10.244Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792250230244}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792250230433}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792250230434}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792250230434}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792250230435}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792250230435}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792250230435}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792250230435}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792250230436}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792250230436}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792250261092}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792250277028}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:2 (2.117.3) 2026-10-17T15:17:57.028Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792250277028}
+{"level":"log","message":"(previous line repeated 1× more)","timestamp":1792250277031}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-17T15:17:57.031Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792250277031}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792250297016}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792250297016}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792250297016}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792250297017}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792250297017}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792250297017}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792250297017}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792250297017}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792250297017}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792250298509}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792250298509}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792250298509}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792250298509}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792250298509}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792250298509}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792250298509}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792250298509}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792250298509}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792250325483}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:3 (2.117.3) 2026-10-17T15:18:45.483Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792250325483}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792250325490}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792250325490}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792250325490}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792250325491}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792250325491}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792250325491}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792250325491}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792250325491}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792250325491}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792250325518}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:2 (2.117.3) 2026-10-17T15:18:45.518Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792250325518}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792250325521}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792250325521}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792250325521}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792250325521}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792250325521}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792250325522}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792250325522}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792250325522}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792250325522}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792250400465}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792250400466}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792250418535}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792250419176}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792250471350}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792250471350}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792250471351}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792250471351}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792250587940}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792250588449}
+{"level":"debug","message":"[vite] connected.","timestamp":1792250588901}
+{"level":"debug","message":"[vite] connected.","timestamp":1792250589827}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792250630592}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792260419159}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792260419529}
+{"level":"debug","message":"[vite] connected.","timestamp":1792260420011}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792260733298}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792260733300}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792260745542}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792260772590}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792261490805}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792261490806}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792261504198}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792261527788}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792261628819}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792261628820}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792261642339}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792261646099}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792289848421}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792289848727}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792289943414}
+{"level":"debug","message":"[vite] connected.","timestamp":1792289944632}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792290085163}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290085164}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792290107923}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792290130186}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290130186}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792290130187}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290130187}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792290265366}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290265366}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792290265871}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290265871}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792290367971}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290367972}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792290367980}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290367980}
+{"level":"warn","message":"It looks like there are several instances of 'styled-components' initialized in this application. This may cause dynamic styles to not render properly, errors during the rehydration process, a missing theme prop, and makes your application bigger without good reason.\n\nSee https://s-c.sh/2BAXzed for more info.","timestamp":1792290375207}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792290375275}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290375275}
+{"level":"warn","message":"It looks like there are several instances of 'styled-components' initialized in this application. This may cause dynamic styles to not render properly, errors during the rehydration process, a missing theme prop, and makes your application bigger without good reason.\n\nSee https://s-c.sh/2BAXzed for more info.","timestamp":1792290375375}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792290375413}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290375413}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792290381384}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792290381621}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792290407289}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290407290}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792290407292}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290407292}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792290545582}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290545583}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792290546045}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290546045}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792290545582}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290545583}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792290546045}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792290546045}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792291000755}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792291000756}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792291009636}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792291009970}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792291032098}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792291032099}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792291040017}
+{"level":"debug","message":"[vite] connected.","timestamp":1792291040054}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792291040402}
+{"level":"debug","message":"[vite] connected.","timestamp":1792291040469}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792292286465}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792292286470}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792292296125}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792292296572}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792292449258}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792292449298}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792292456730}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792292460131}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792292484869}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792292486346}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792292616152}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792292616152}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792292623814}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792292752903}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792292752904}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792292929148}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792292937447}
+{"level":"debug","message":"[vite] connected.","timestamp":1792292937454}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792292938371}
+{"level":"debug","message":"[vite] connected.","timestamp":1792292938681}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792293074435}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792293074848}
+{"level":"debug","message":"[vite] connected.","timestamp":1792293075819}
+{"level":"debug","message":"[vite] connected.","timestamp":1792293076204}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792293160212}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792293548692}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792293548693}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792293556085}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792293557889}
+{"level":"debug","message":"[vite] connected.","timestamp":1792293558858}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792293884136}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792293884138}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792293898399}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792293906533}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792295294059}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792295294060}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792295302031}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792295321612}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792295347964}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792295349310}
+{"level":"debug","message":"[vite] connected.","timestamp":1792295349321}
+{"level":"debug","message":"[vite] connected.","timestamp":1792295349541}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792295419576}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792295419598}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792295425004}
+{"level":"debug","message":"[vite] connected.","timestamp":1792295425011}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792295425540}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792295863745}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792295863770}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792295871545}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792295872331}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792296893770}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792296893772}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792296905569}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792296905961}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792296930767}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792296930907}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792297387268}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792297389550}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792297400830}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792298783917}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792298790080}
+{"level":"debug","message":"[vite] connected.","timestamp":1792298791231}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792299082450}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792299098237}
+{"level":"debug","message":"[vite] connected.","timestamp":1792299099440}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792299126227}
+{"level":"debug","message":"[vite] connected.","timestamp":1792299159079}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792299993170}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792300101065}
+{"level":"debug","message":"[vite] connected.","timestamp":1792300101071}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792300251383}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792300588161}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792300588598}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792300822736}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792300991914}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792300999845}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792301112992}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792301132138}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792303376180}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792303483690}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792303986232}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792304017795}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792304198856}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792304514104}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792304545152}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792304548228}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792304591521}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792304591521}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792304591523}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792304591523}
+{"level":"debug","message":"[vite] hot updated: /src/pages/DashboardHome.tsx","timestamp":1792304643411}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792304643411}
+{"level":"debug","message":"[vite] hot updated: /src/pages/DashboardHome.tsx","timestamp":1792304643411}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792304643412}
+{"level":"debug","message":"[vite] hot updated: /src/pages/DashboardHome.tsx","timestamp":1792304690200}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792304690200}
+{"level":"debug","message":"[vite] hot updated: /src/pages/DashboardHome.tsx","timestamp":1792304690200}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792304690201}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792304903679}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792304903695}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792305031218}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792305272103}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792305272676}
+{"level":"debug","message":"[vite] connected.","timestamp":1792305273353}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792305637637}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792305637653}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792305671154}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792305673082}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792305758245}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792305758597}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792305998146}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792305998149}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792306014156}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792306028217}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792306044263}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792306044271}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792306357022}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792306357849}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792306386809}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792306388461}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792307768028}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792307768032}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792308121787}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792308129589}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792308162763}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792308167776}
+{"level":"debug","message":"[vite] connected.","timestamp":1792308169164}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792309838662}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792309838698}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311117468}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311153664}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311228906}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311454280}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311455070}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792311472298}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792311472298}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311488234}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311488638}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792311516648}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792311516648}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792311516650}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792311516650}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792311516652}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792311516652}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311600370}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311771584}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311792265}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311795960}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311853924}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311868397}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792311880562}
+{"level":"debug","message":"[vite] connected.","timestamp":1792311881600}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792312520804}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792312520804}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792313494792}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792313912874}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792313914296}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792313946541}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792313949800}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792314077548}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792314077548}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792314078065}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792314078066}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792314109837}
+{"level":"debug","message":"[vite] hot updated: /src/components/CrateOpeningModal.tsx","timestamp":1792314206815}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792314206815}
+{"level":"debug","message":"[vite] hot updated: /src/components/CrateOpeningModal.tsx","timestamp":1792314207661}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792314207661}
+{"level":"debug","message":"[vite] hot updated: /src/components/CrateOpeningModal.tsx","timestamp":1792314208257}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792314208257}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792314324319}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792314485611}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792314526638}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792314527212}
+{"level":"debug","message":"[vite] connected.","timestamp":1792314527476}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792314579977}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792314596794}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792314597381}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792315174101}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792315174101}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792315174101}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792315200861}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792315201378}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315290214}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315290214}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315291044}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315291044}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792315316386}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315329137}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315329137}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315329146}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315329146}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315329148}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315329148}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315361905}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315361905}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315361906}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315361906}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315362021}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315362021}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315393131}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315393131}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315393132}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315393132}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315393440}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315393440}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315424356}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315424356}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315424357}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315424357}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315424457}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315424457}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315470637}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315470638}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792315470648}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792315470648}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792315487647}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792315560888}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792315576013}
+{"level":"debug","message":"[vite] connected.","timestamp":1792315576168}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792315620384}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792315646054}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792315687711}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792315688333}
+{"level":"debug","message":"[vite] connected.","timestamp":1792315688481}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792315699798}
+{"level":"debug","message":"[vite] connected.","timestamp":1792315699809}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792316000494}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316002333}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316032531}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316034729}
+{"level":"debug","message":"[vite] connected.","timestamp":1792316034977}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316037578}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316189359}
+{"level":"log","message":"(previous line repeated 1× more)","timestamp":1792316217520}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-18T09:36:57.520Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792316217520}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792316217523}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792316217523}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792316217524}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792316217524}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792316217524}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792316217524}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792316217524}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792316217524}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792316217524}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316226355}
+{"level":"warn","message":"GoTrueClient@sb-gphrbquqmwrgxedwinvd-auth-token:1 (2.117.3) 2026-10-18T09:37:06.356Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.","timestamp":1792316226356}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewModal.tsx","timestamp":1792316231784}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792316231784}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CatalogPage.tsx","timestamp":1792316231784}
+{"level":"debug","message":"[vite] hot updated: /src/pages/OrdersPage.tsx","timestamp":1792316231784}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792316231784}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792316231785}
+{"level":"debug","message":"[vite] hot updated: /src/pages/AdminPage.tsx","timestamp":1792316231785}
+{"level":"debug","message":"[vite] hot updated: /src/components/ReviewsSection.tsx","timestamp":1792316231785}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActiveOrdersStrip.tsx","timestamp":1792316231785}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316249764}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316446051}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316449887}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316460654}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792316737714}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792316737716}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316739215}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316751267}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316786179}
+{"level":"debug","message":"[vite] connected.","timestamp":1792316787288}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316804012}
+{"level":"debug","message":"[vite] connected.","timestamp":1792316804057}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792316931491}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792316931491}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792316939272}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792316939273}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792316975834}
+{"level":"error","message":"[vite] Failed to reload /src/pages/RefundPage.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792317168338}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792317168736}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792317168736}
+{"level":"error","message":"[vite] Failed to reload /src/pages/RefundPage.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792317169636}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792317169636}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792317169636}
+{"level":"error","message":"[vite] Failed to reload /src/pages/RefundPage.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1792317172643}
+{"level":"debug","message":"[vite] hot updated: /src/pages/RefundPage.tsx","timestamp":1792317172643}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792317172643}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792317259281}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792317265324}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792317265811}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792317437651}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792317437651}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792317438065}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792317438066}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792322960969}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792322969739}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792322970170}
+{"level":"debug","message":"[vite] connected.","timestamp":1792322970702}
+{"level":"debug","message":"[vite] connected.","timestamp":1792322971403}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792323370558}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792323370562}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792323370563}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792323383096}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792323392606}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792323393151}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792323439911}
+{"level":"debug","message":"[vite] connected.","timestamp":1792323441032}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792641495234}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792641501781}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792641502186}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792641536804}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792641536810}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792641536811}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792641541591}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792641542184}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792641542612}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792641710912}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792641710914}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792641710919}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792641980306}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792641981160}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792641981558}
+{"level":"debug","message":"[vite] connected.","timestamp":1792641981574}
+{"level":"debug","message":"[vite] connected.","timestamp":1792641981812}
+{"level":"debug","message":"[vite] connected.","timestamp":1792641982606}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792642042280}
+{"level":"debug","message":"[vite] connected.","timestamp":1792642042389}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792642177964}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792642194065}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792642194223}
+{"level":"debug","message":"[vite] connected.","timestamp":1792642195289}
+{"level":"debug","message":"[vite] connected.","timestamp":1792642195633}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792642558057}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792642564614}
+{"level":"debug","message":"[vite] connected.","timestamp":1792642565042}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792642970257}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792642979764}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792643132939}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792643141342}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792643240168}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792643248979}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792643510905}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792643518245}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792644204672}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792644217408}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792644441457}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792644486521}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792646520031}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792646523483}
+{"level":"debug","message":"[vite] connected.","timestamp":1792646524490}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792682646660}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792682816654}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792682831264}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792682870650}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792684634424}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792684634427}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792684652310}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792684652603}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792823053476}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792824330377}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792824338137}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792824417275}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792824423960}
+{"level":"debug","message":"[vite] connected.","timestamp":1792824425192}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792824570784}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792824571998}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792824574206}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792824582173}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792824979456}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792824979496}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792824987366}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792824987666}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792824992602}
+{"level":"debug","message":"[vite] connected.","timestamp":1792824992835}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792825021413}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792825021413}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792825024788}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792825033699}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792825033700}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792825033701}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792825033701}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792825040585}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792825040585}
+{"level":"debug","message":"[vite] hot updated: /src/pages/CheckoutPage.tsx","timestamp":1792825040586}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792825040586}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792825095964}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792825096738}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792825099446}
+{"level":"debug","message":"[vite] connected.","timestamp":1792825099495}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792825585552}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792825585553}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792825593758}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792825596420}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792825600018}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792825600621}
+{"level":"debug","message":"[vite] connected.","timestamp":1792825601024}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792825982002}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792825982564}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792826047011}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792826047021}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792826052033}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792826052711}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792826265675}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792826265677}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792826277982}
+{"level":"log","message":"[supabase] Initialised. URL: https://gphrbquqmwrgxedwinvd.supabase.co...","timestamp":1792826278810}

@@ -1,0 +1,306 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  /* ── Light / White-Ash + Sky-Blue + Pastel-Pink theme ── */
+  --bg: #F8FAFC;
+  --bg-gradient: linear-gradient(160deg, #EEF6FF 0%, #F8FAFC 45%, #FDF2F8 100%);
+  --surface: rgba(255,255,255,0.72);
+  --surface-solid: #FFFFFF;
+  --surface-strong: rgba(255,255,255,0.90);
+  --surface-muted: rgba(241,245,249,0.80);
+  --ink: #0F172A;
+  --ink-2: #1E293B;
+  --muted: #334155;
+  --subtle: #64748B;
+  --border: rgba(255,255,255,0.60);
+  --border-subtle: rgba(148,163,184,0.18);
+  --border-sky: rgba(56,189,248,0.22);
+  --border-pink: rgba(244,114,182,0.22);
+
+  /* Sky-blue accent */
+  --sky: #0EA5E9;
+  --sky-light: #38BDF8;
+  --sky-glow: rgba(56, 189, 248, 0.28);
+  --sky-soft: rgba(14, 165, 233, 0.08);
+
+  /* Pastel-pink accent */
+  --pink: #F472B6;
+  --pink-light: #FBCFE8;
+  --pink-glow: rgba(244, 114, 182, 0.30);
+  --pink-soft: rgba(244, 114, 182, 0.08);
+
+  /* Primary accent (sky) */
+  --accent: #0EA5E9;
+  --accent-hot: #0284C7;
+  --accent-hover: #38BDF8;
+
+  /* Supporting accents */
+  --violet: #7C3AED;
+  --violet-glow: rgba(124, 58, 237, 0.14);
+  --cyan: #06B6D4;
+  --cyan-glow: rgba(6, 182, 212, 0.14);
+
+  /* Status colours */
+  --success: #16A34A;
+  --success-bg: rgba(22, 163, 74, 0.08);
+  --danger: #DC2626;
+  --danger-bg: rgba(220, 38, 38, 0.06);
+  --warning: #D97706;
+
+  /* 3D lift shadows */
+  --shadow-card: 0 1px 3px rgba(0,0,0,0.05), 0 1px 2px rgba(0,0,0,0.04), inset 0 1px 1px rgba(255,255,255,0.70);
+  --shadow-lift: 0 20px 35px -10px rgba(56,189,248,0.30), 0 10px 20px -10px rgba(244,114,182,0.30);
+  --shadow-lift-sm: 0 12px 24px -8px rgba(56,189,248,0.22), 0 6px 14px -6px rgba(244,114,182,0.18);
+  --shadow-sky: 0 8px 32px rgba(56,189,248,0.28), 0 4px 12px rgba(14,165,233,0.14);
+  --shadow-pink: 0 8px 32px rgba(244,114,182,0.28), 0 4px 12px rgba(244,114,182,0.14);
+  --shadow-dual: 0 4px 20px rgba(56,189,248,0.20), 0 4px 20px rgba(244,114,182,0.15);
+  --shadow-card-hover: 0 4px 20px rgba(56,189,248,0.25), 0 2px 8px rgba(0,0,0,0.04);
+  --shadow-card-hover-pink: 0 6px 25px rgba(244,114,182,0.30), 0 2px 8px rgba(0,0,0,0.04);
+}
+
+body {
+  margin: 0;
+  font-family: 'DM Sans', sans-serif;
+  background: var(--bg-gradient);
+  color: var(--ink);
+  min-height: 100dvh;
+}
+
+.display {
+  font-family: 'Space Grotesk', sans-serif;
+  letter-spacing: -0.03em;
+}
+
+.mono {
+  font-family: 'JetBrains Mono', Menlo, monospace;
+}
+
+/* ── iOS Frosted Glass surfaces ─────────────────────── */
+/* Base glass: used for all cards, modals, panels       */
+.glass {
+  background: rgba(255,255,255,0.65);
+  backdrop-filter: blur(24px) saturate(1.9);
+  -webkit-backdrop-filter: blur(24px) saturate(1.9);
+  border: 1px solid rgba(255,255,255,0.60);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04), inset 0 1px 2px rgba(255,255,255,0.80);
+}
+
+/* Stronger glass: modals, sidebars, headers */
+.glass-strong {
+  background: rgba(255,255,255,0.85);
+  backdrop-filter: blur(32px) saturate(2.0);
+  -webkit-backdrop-filter: blur(32px) saturate(2.0);
+  border: 1px solid rgba(255,255,255,0.70);
+  box-shadow: 0 4px 24px rgba(56,189,248,0.10), inset 0 1px 2px rgba(255,255,255,0.90);
+}
+
+/* Tinted sky glass: info banners, selected states */
+.glass-sky {
+  background: rgba(56,189,248,0.06);
+  backdrop-filter: blur(20px) saturate(1.8);
+  -webkit-backdrop-filter: blur(20px) saturate(1.8);
+  border: 1px solid rgba(56,189,248,0.20);
+  box-shadow: inset 0 1px 2px rgba(255,255,255,0.70);
+}
+
+/* Deep glass: full-screen modals, dropdowns */
+.glass-deep {
+  background: rgba(255,255,255,0.55);
+  backdrop-filter: blur(40px) saturate(2.2);
+  -webkit-backdrop-filter: blur(40px) saturate(2.2);
+  border: 1px solid rgba(255,255,255,0.65);
+  box-shadow: 0 20px 60px rgba(0,0,0,0.08), inset 0 1px 2px rgba(255,255,255,0.80);
+}
+
+/* ── Ambient glow card ─────────────────────────────── */
+.card-glow {
+  position: relative;
+}
+.card-glow::before {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: inherit;
+  background: linear-gradient(135deg, rgba(56,189,248,0.20) 0%, rgba(244,114,182,0.20) 100%);
+  z-index: -1;
+  filter: blur(12px);
+  opacity: 0;
+  transition: opacity 0.30s ease;
+}
+.card-glow:hover::before {
+  opacity: 1;
+}
+
+/* ── 3D Card Hover Lift ──────────────────────────────
+   Apply to any interactive card. Pairs with card-glow. */
+.card-hover {
+  transition: transform 0.30s cubic-bezier(0.34,1.56,0.64,1),
+              box-shadow 0.30s ease-out,
+              border-color 0.25s ease;
+  will-change: transform;
+}
+.card-hover:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: var(--shadow-lift);
+  border-color: rgba(56,189,248,0.40) !important;
+}
+.card-hover:active {
+  transform: translateY(-2px) scale(0.99);
+  transition-duration: 0.10s;
+}
+
+/* Lighter lift for compact/list items */
+.card-hover-sm {
+  transition: transform 0.25s cubic-bezier(0.34,1.56,0.64,1),
+              box-shadow 0.25s ease-out,
+              border-color 0.20s ease;
+}
+.card-hover-sm:hover {
+  transform: translateY(-4px) scale(1.015);
+  box-shadow: var(--shadow-lift-sm);
+  border-color: rgba(56,189,248,0.35) !important;
+}
+.card-hover-sm:active {
+  transform: scale(0.98);
+}
+
+/* ── Selected / active state ring ─────────────────── */
+/* For active plan cards, selected category tabs, etc. */
+.ring-active {
+  border-color: rgba(56,189,248,0.55) !important;
+  box-shadow: 0 0 0 3px rgba(56,189,248,0.12), 0 0 0 5px rgba(244,114,182,0.08),
+              var(--shadow-lift-sm) !important;
+  transform: translateY(-4px) scale(1.01);
+}
+
+/* ── Gradient border on hover ───────────────────────── */
+.card-gradient-border {
+  position: relative;
+  border-radius: 16px;
+}
+.card-gradient-border::after {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  border-radius: 17px;
+  background: linear-gradient(135deg, rgba(56,189,248,0.35), rgba(244,114,182,0.30));
+  z-index: -1;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+.card-gradient-border:hover::after {
+  opacity: 1;
+}
+
+/* ── Glow utilities ─────────────────────────────────── */
+.glow-sky    { box-shadow: var(--shadow-sky); }
+.glow-pink   { box-shadow: var(--shadow-pink); }
+.glow-dual   { box-shadow: var(--shadow-dual); }
+.glow-lift   { box-shadow: var(--shadow-lift); }
+.glow-violet { box-shadow: 0 0 24px var(--violet-glow); }
+.glow-cyan   { box-shadow: 0 0 24px var(--cyan-glow); }
+
+/* ── Badges ─────────────────────────────────────────── */
+.badge-hot {
+  background: linear-gradient(135deg, #38BDF8, #F472B6);
+  color: #fff;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border-radius: 999px;
+  box-shadow: 0 2px 8px rgba(56,189,248,0.25);
+}
+
+.badge-popular {
+  background: linear-gradient(135deg, #06B6D4, #38BDF8);
+  color: #fff;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border-radius: 999px;
+  box-shadow: 0 2px 8px rgba(6,182,212,0.22);
+}
+
+.badge-new {
+  background: linear-gradient(135deg, #F472B6, #38BDF8);
+  color: #fff;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border-radius: 999px;
+  box-shadow: 0 2px 8px rgba(244,114,182,0.22);
+}
+
+.badge-instant {
+  background: linear-gradient(135deg, #38BDF8, #0EA5E9);
+  color: #fff;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 999px;
+  box-shadow: 0 2px 8px rgba(56,189,248,0.25);
+}
+
+/* ── Primary CTA button — sky→pink shimmer ──────────── */
+.btn-premium {
+  background: linear-gradient(135deg, #38BDF8 0%, #0EA5E9 45%, #F472B6 100%);
+  background-size: 200% 200%;
+  color: #ffffff;
+  font-weight: 600;
+  transition: background-position 0.4s ease, box-shadow 0.25s ease, transform 0.15s ease;
+  box-shadow: 0 4px 16px rgba(56,189,248,0.22);
+}
+.btn-premium:hover {
+  background-position: right center;
+  box-shadow: var(--shadow-lift-sm);
+  transform: translateY(-2px) scale(1.01);
+}
+.btn-premium:active {
+  transform: scale(0.97);
+  transition-duration: 0.08s;
+}
+
+/* ── Input focus glow ───────────────────────────────── */
+.input-glow:focus {
+  border-color: rgba(56,189,248,0.50) !important;
+  box-shadow: 0 0 0 3px rgba(56,189,248,0.10), 0 0 0 5px rgba(244,114,182,0.06) !important;
+  outline: none;
+}
+
+/* ── Scrollbar ──────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(56,189,248,0.30), rgba(244,114,182,0.30));
+  border-radius: 2px;
+}
+
+/* ── Tabular numbers ────────────────────────────────── */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── ring-sky-pink alias (legacy) ───────────────────── */
+.ring-sky-pink {
+  outline: none;
+  border: 1.5px solid rgba(56,189,248,0.55) !important;
+  box-shadow: 0 0 0 3px rgba(56,189,248,0.12), 0 0 0 5px rgba(244,114,182,0.08) !important;
+}

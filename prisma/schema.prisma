@@ -1,0 +1,94 @@
+// Arc Premium Store — Prisma Schema
+// PostgreSQL (Supabase / Neon DB)
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// ─── Order Management ────────────────────────────────────────────────────────
+
+model Order {
+  id             String      @id @default(cuid())
+  orderId        String      @unique // Smart contract bytes32 orderId (hex string)
+  buyerWallet    String      // Buyer's EVM wallet address
+  platform       String      // e.g. "Discord Nitro", "X Premium"
+  planDuration   String      // e.g. "1 Month", "1 Year"
+  amountUSDC     Float       // USDC amount — primary amount field (alias: amount)
+  amount         Float?      // Explicit amount field per API spec (mirrors amountUSDC)
+  chainId        Int?        // EVM chain ID the order was placed on
+  userHandle     String      // Telegram handle, Discord ID, or Email for delivery
+  email          String?     // Buyer's email address for delivery notifications
+  promoCode      String?     // Promo code used at checkout (if any)
+  referralCode   String?     // Referral code applied (if any)
+  status         OrderStatus @default(PENDING)
+  activationCode String?     // Gift link or voucher key — revealed on DELIVERED
+  txHash         String?     // On-chain createOrder transaction hash
+  fulfillTxHash  String?     // On-chain fulfillOrder transaction hash (fund release to merchant)
+  fulfilledAt    DateTime?   // Timestamp when admin marked DELIVERED
+  createdAt      DateTime    @default(now())
+  updatedAt      DateTime    @updatedAt
+
+  @@map("orders")
+  @@index([buyerWallet])
+  @@index([status])
+}
+
+// ─── Inventory Management ────────────────────────────────────────────────────
+
+model Inventory {
+  id          String   @id @default(cuid())
+  platform    String   // e.g. "Discord Nitro"
+  duration    String   // e.g. "1 Month"
+  codeOrLink  String   // Digital voucher key or gift link
+  isUsed      Boolean  @default(false)
+  usedForOrder String? // orderId this code was assigned to
+  createdAt   DateTime @default(now())
+
+  @@map("inventory")
+  @@index([platform, duration, isUsed])
+}
+
+// ─── Referral Tracking ───────────────────────────────────────────────────────
+
+model Referral {
+  id            String   @id @default(cuid())
+  referrerWallet String  // Wallet that owns this referral code
+  code          String   @unique // ARC-XXXXXX format
+  totalUses     Int      @default(0)
+  totalEarned   Float    @default(0) // USDC earned via referrals
+  createdAt     DateTime @default(now())
+
+  @@map("referrals")
+  @@index([referrerWallet])
+}
+
+// ─── Reviews ─────────────────────────────────────────────────────────────────
+
+model Review {
+  id            String   @id @default(cuid())
+  productId     String   // Platform id, e.g. "discord-nitro"
+  orderId       String   @unique // one review per fulfilled order
+  buyerAddress  String   // lowercase wallet address
+  rating        Int      // 1-5
+  comment       String   @default("")
+  isVerified    Boolean  @default(true) // true = matched a DELIVERED order
+  createdAt     DateTime @default(now())
+
+  @@map("reviews")
+  @@index([productId])
+  @@index([buyerAddress])
+}
+
+// ─── Enums ───────────────────────────────────────────────────────────────────
+
+enum OrderStatus {
+  PENDING
+  DELIVERED
+  REFUNDED
+}
