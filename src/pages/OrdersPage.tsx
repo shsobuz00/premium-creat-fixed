@@ -7,7 +7,7 @@ useEffect(() => {
     setNow(Math.floor(Date.now() / 1000));
   }, 1000);
   return () => clearInterval(interval);
-}, []);
+ 
   ExternalLink, AlertCircle, Copy, CheckCheck, Users, Gift, Star,
 } from 'lucide-react';
 import {
