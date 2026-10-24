@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import {
   Clock, Package, RefreshCw, ChevronDown, ChevronUp,
   ExternalLink, AlertCircle, Copy, CheckCheck, Users, Gift, Star,
-} from 'lucide-react';
+import {
   useAccount,
   useReadContract,
   useWriteContract,
