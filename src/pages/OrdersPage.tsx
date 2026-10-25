@@ -231,7 +231,7 @@ function OrderCard({ orderId, buyer, dbOrder, onRefunded }: { orderId: `0x${stri
   const statusLabel = orderStatusLabel(effectiveStatus);
   const statusClass = orderStatusColor(effectiveStatus);
   const refundable = !isOnChainPending && canRefund(effectiveTimestamp, effectiveStatus);
-  const secsLeft = effectiveStatus === OrderStatus.Pending ? Math.max(0, 86400 - (Math.floor(Date.now() / 1000) - Number(effectiveTimestamp))) : 0;
+  const secsLeft = effectiveStatus === OrderStatus.Pending ? 86400 : 0;
   const createdDate = new Date(Number(effectiveTimestamp) * 1000).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 
   const handleClaimRefund = () => {
@@ -388,11 +388,21 @@ function OrderCard({ orderId, buyer, dbOrder, onRefunded }: { orderId: `0x${stri
 
 function CountdownTimer({ secsLeft: initial }: { secsLeft: number }) {
   const [secs, setSecs] = useState(initial);
+
+  useEffect(() => {
+    setSecs(initial);
+  }, [initial]);
+
   useEffect(() => {
     if (secs <= 0) return;
-    const id = setInterval(() => setSecs((s) => Math.max(0, s - 1)), 1000);
+
+    const id = setInterval(() => {
+      setSecs((prev) => (prev > 0 ? prev - 1 : 0));
+    }, 1000);
+
     return () => clearInterval(id);
-  }, [secs]);
+  }, [secs > 0]);
+
   return <span className="mono text-xs font-semibold" style={{ color: '#D97706' }}>{formatCountdown(secs)}</span>;
 }
 
