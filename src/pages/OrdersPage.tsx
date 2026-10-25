@@ -231,7 +231,7 @@ function OrderCard({ orderId, buyer, dbOrder, onRefunded }: { orderId: `0x${stri
   const statusLabel = orderStatusLabel(effectiveStatus);
   const statusClass = orderStatusColor(effectiveStatus);
   const refundable = !isOnChainPending && canRefund(effectiveTimestamp, effectiveStatus);
-  const secsLeft = effectiveStatus === OrderStatus.Pending ? Math.max(0, Number(effectiveTimestamp) + 24 * 60 * 60 - Math.floor(Date.now() / 1000)) : 0;
+  const secsLeft = effectiveStatus === OrderStatus.Pending ? Math.max(0, 86400 - (Math.floor(Date.now() / 1000) - Number(effectiveTimestamp))) : 0;
   const createdDate = new Date(Number(effectiveTimestamp) * 1000).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 
   const handleClaimRefund = () => {
